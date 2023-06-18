@@ -14,7 +14,7 @@ header {
 }
 
 section {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     padding: 15px;
     border-radius: 5px;
     width: 500px;
@@ -23,7 +23,7 @@ section {
 }
 
 div {
-    text-align: center;
+    text-align: auto;
     padding: 10px;
 }
 
